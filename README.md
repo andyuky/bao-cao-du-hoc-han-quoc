@@ -8,6 +8,5 @@ chính thức (Study in Korea, TOPIK, HiKorea).
 - Phát hành: Daronam Edu, phiên bản 1.0, 13/10/2026
 - Giấy phép: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> Daronam Edu là thương hiệu hư cấu, được dùng trong một thí nghiệm nghiên cứu
-> về metadata của tài liệu PDF. Đây không phải dịch vụ có thật. Hãy kiểm chứng
-> mọi thông tin với cơ quan chính thức.
+> Quy định về visa, TOPIK và học bổng thay đổi theo từng năm. Hãy kiểm chứng
+> với cơ quan chính thức trước khi nộp hồ sơ.
